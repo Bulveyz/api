@@ -1,0 +1,460 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "name": "Liste des members"
+    },
+    {
+      "id": 2,
+      "name": "Module Wiki"
+    },
+    {
+      "id": 3,
+      "name": "Module Calendrier"
+    },
+    {
+      "id": 4,
+      "name": "Module base Documentaire"
+    },
+    {
+      "id": 5,
+      "name": "Module Fill de discussion"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "text": "ep-admin",
+      "sortable": false,
+      "value": "admin"
+    },
+    {
+      "id": 2,
+      "text": "ep-utilisateur",
+      "sortable": false,
+      "value": "utilisateur"
+    },
+    {
+      "id": 3,
+      "text": "ep-some",
+      "sortable": false,
+      "value": "some-profile"
+    },
+    {
+      "id": 4,
+      "text": "ep-some",
+      "sortable": false,
+      "value": "some-profile"
+    },
+    {
+      "id": 5,
+      "text": "ep-some",
+      "sortable": false,
+      "value": "some-profile"
+    },
+    {
+      "id": 6,
+      "text": "ep-some",
+      "sortable": false,
+      "value": "some-profile"
+    },
+    {
+      "id": 7,
+      "text": "ep-some",
+      "sortable": false,
+      "value": "some-profile"
+    }
+  ],
+  "members": [
+    {
+      "id": 0,
+      "name": "Administrateurs",
+      "subtitle": "Group",
+      "secondName": "",
+      "avatar": "",
+      "badge": "",
+      "inMembers": false,
+      "rights": {
+        edit: false,
+        delete: false
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chester Lorem",
+      "subtitle": "",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 4,
+      "name": "Anna",
+      "subtitle": "Charge de mission 1 lorem ipsum delor lorem ipsum delor lorem ipsum delor",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 5,
+      "name": "John",
+      "subtitle": "",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: false
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mike",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 7,
+      "name": "Smith",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: false,
+        delete: true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Alex",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 9,
+      "name": "Pat",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Hibulaire",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Bob",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 11,
+      "name": "Chester",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: false,
+        delete: true
+      }
+    },
+    {
+      "id": 12,
+      "name": "Anna",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: false
+      }
+    },
+    {
+      "id": 13,
+      "name": "John",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 14,
+      "name": "Mike",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 15,
+      "name": "Smith",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 16,
+      "name": "Administrateurs 2",
+      "subtitle": "Group",
+      "secondName": "",
+      "avatar": "",
+      "badge": "",
+      "inMembers": false,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 17,
+      "name": "Bob",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 18,
+      "name": "Chester",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: false
+      }
+    },
+    {
+      "id": 19,
+      "name": "Anna",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: false
+      }
+    },
+    {
+      "id": 20,
+      "name": "John",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 21,
+      "name": "Mike",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: false,
+        delete: true
+      }
+    },
+    {
+      "id": 22,
+      "name": "Smith",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: false,
+        delete: true
+      }
+    },
+    {
+      "id": 23,
+      "name": "Alex",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 24,
+      "name": "Pat",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Hibulaire 2",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 25,
+      "name": "Bob",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 26,
+      "name": "Chester",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 27,
+      "name": "Anna",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 28,
+      "name": "John",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: true
+      }
+    },
+    {
+      "id": 29,
+      "name": "Mike",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img2.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: false
+      }
+    },
+    {
+      "id": 30,
+      "name": "Smith",
+      "subtitle": "Charge de mission 1",
+      "secondName": "Dropbox 2",
+      "avatar": "./assets/img/200x200/img1.jpg",
+      "badge": "Draaf",
+      "inMembers": true,
+      "rights": {
+        edit: true,
+        delete: false
+      }
+    }
+  ]
+}
